@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta content="width=device-width, initial-scale=1" name="viewport" />
+        <title>Rhykerw.com || Maintenance</title>
+        <!-- Embeds on external sites -->
+        <meta content="Mainenance" property="og:title" />
+        <meta content="Maintenance" property="og:description" />
+        <meta content="https://rhykerw.com" property="og:url" />
+        <meta content="./assets/images/other/logo.png" property="og:image" />
+        <meta content="#e1614b" data-react-helmet="true" name="theme-color" />
+        <!-- CSS and JS -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" type="text/javascript"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.3/TimelineMax.min.js" type="text/javascript"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.2/TweenMax.min.js" type="text/javascript"></script>
+        <script src="./assets/js/maintenance.js" type="text/javascript"></script>
+        <link href="./assets/css/maintenance.css" rel="stylesheet" type="text/css" />
+    </head>
+    <div class="wrapper">
+        <div class="animated-block">
+        <svg id="wrench" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="73px" height="258px" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 7300 25800" \xmlns:xlink="http://www.w3.org/1999/xlink">
+            <defs>
+                <style type="text/css">
+                    <![CDATA[
+                        .str1 {stroke:white;stroke-width:199.963;stroke-linecap:round}
+                        .str0 {stroke:white;stroke-width:199.963;stroke-linecap:round;stroke-linejoin:round}
+                        .fil0 {fill:none}
+                    ]]>
+                </style>
+            </defs>
+            <g id="Layer_x0020_1">
+                <metadata id="CorelCorpID_0Corel-Layer"/>
+                <g id="_2678909198112">
+                    <g>
+                        <g>
+                            <path class="fil0 str0" d="M2744 20036c-1530,371 -2594,1625 -2594,3058 0,1013 536,1965 1441,2561"/>
+                            <path class="fil0 str0" d="M150 23099c0,-2483 2056,-2699 2056,-4682 0,-1983 0,-5517 0,-5517"/>
+                            <path class="fil0 str0" d="M7150 23099c0,-2483 -2056,-2699 -2056,-4682 0,-1983 0,-5517 0,-5517"/>
+                            <path class="fil0 str0" d="M4556 20036c1530,371 2594,1625 2594,3058 0,1013 -536,1965 -1441,2561"/>
+                            <path class="fil0 str0" d="M1591 25655l0 -2378 2059 -1189 2059 1189 0 2378"/>
+                        </g>
+                        <g>
+                            <path class="fil0 str0" d="M2744 5764c-1530,-371 -2594,-1625 -2594,-3058 0,-1013 536,-1965 1441,-2560"/>
+                            <path class="fil0 str0" d="M150 2701c0,2483 2056,2699 2056,4682 0,1983 0,5517 0,5517"/>
+                            <path class="fil0 str0" d="M7150 2701c0,2483 -2056,2699 -2056,4682 0,1983 0,5517 0,5517"/>
+                            <path class="fil0 str0" d="M4556 5764c1530,-371 2594,-1625 2594,-3058 0,-1013 -536,-1965 -1441,-2560"/>
+                            <path class="fil0 str0" d="M1591 146l0 2377 2059 1189 2059 -1189 0 -2378"/>
+                        </g>
+                    </g>
+                    <path class="fil0 str1" d="M3650 7931l0 9938"/>
+                </g>
+            </g>
+        </svg>
+        <svg id="nut" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="44px" height="50px" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 4400 5000" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <defs>
+            <style type="text/css">
+                <![CDATA[
+                    .str0 {stroke:white;stroke-width:199.968;stroke-linecap:round;stroke-linejoin:round}
+                    .fil0 {fill:none}
+                ]]>
+                </style>
+            </defs>
+            <g id="Layer_x0020_1">
+                <metadata id="CorelCorpID_0Corel-Layer"/>
+                <g id="_2678695614144">
+                    <path class="fil0 str0" d="M2200 122l1030 595 1029 594 0 1189 0 1189 -1029 594 -1030 595 -1029 -595 -1030 -594 0 -1189 0 -1189 1030 -594 1029 -595z"/>
+                    <path class="fil0 str0" d="M2200 3628c623,0 1128,-505 1128,-1128 0,-623 -505,-1128 -1128,-1128 -623,0 -1128,505 -1128,1128 0,623 505,1128 1128,1128z"/>
+                </g>
+            </g>
+        </svg>
+        </div>
+            <h1 class="main-header">Site under construction</h1>
+            <a href="tel:+447931352834" class="main-link">+44 7931 352834</a>
+            <a href="mailto:+wells@rhykerw.com" class="main-link">✉️ wells@rhykerw.com</a>
+      </div>
+</html>
+<style>
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+  background-color: #1a1a1a;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.animated-block {
+  margin-bottom: 50px;
+}
+.animated-block #nut,
+.animated-block #wrench {
+  display: block;
+  margin: 0 auto;
+}
+
+.main-header {
+  display: block;
+  max-width: 300px;
+  margin-bottom: 60px;
+  font: 30px "Raleway", sans-serif;
+  color: #4d4d4d;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.main-link {
+  font: 24px "Open Sans", sans-serif;
+  color: #fff;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+}
+</style>
+<script>
+    var wrench = $("#wrench");
+    var nut = $("#nut");
+
+    var tm = new TimelineMax({repeat: -1});
+    tm
+        .to(wrench, 0.3, {y: 38})
+        .to(wrench, 0.4, {rotation: 120, transformOrigin: '49% 95%'})
+        .to(nut, 0.4, {rotation: 120, transformOrigin: '50% 50%'}, '-=0.4')
+        .to(wrench, 0.4, {x: 38, y: 55})
+        .to(wrench, 0.4, {y:0, x: 0, rotation: 0})
+</script>
