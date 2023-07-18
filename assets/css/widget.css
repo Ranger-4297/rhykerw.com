@@ -1,0 +1,473 @@
+.eapps-widget {
+    -webkit-animation: none;
+    animation: none;
+    -webkit-animation-delay: 0;
+    animation-delay: 0;
+    -webkit-animation-direction: normal;
+    animation-direction: normal;
+    -webkit-animation-duration: 0;
+    animation-duration: 0;
+    -webkit-animation-fill-mode: none;
+    animation-fill-mode: none;
+    -webkit-animation-iteration-count: 1;
+    animation-iteration-count: 1;
+    -webkit-animation-name: none;
+    animation-name: none;
+    -webkit-animation-play-state: running;
+    animation-play-state: running;
+    -webkit-animation-timing-function: ease;
+    animation-timing-function: ease;
+    -webkit-backface-visibility: visible;
+    backface-visibility: visible;
+    background: 0;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent;
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-position-x: 0;
+    background-position-y: 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    border: 0;
+    border-style: none;
+    border-width: medium;
+    border-color: inherit;
+    border-bottom: 0;
+    border-bottom-color: inherit;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-collapse: separate;
+    -o-border-image: none;
+    border-image: none;
+    border-left: 0;
+    border-left-color: inherit;
+    border-left-style: none;
+    border-left-width: medium;
+    border-radius: 0;
+    border-right: 0;
+    border-right-color: inherit;
+    border-right-style: none;
+    border-right-width: medium;
+    border-spacing: 0;
+    border-top: 0;
+    border-top-color: inherit;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-top-style: none;
+    border-top-width: medium;
+    bottom: auto;
+    box-shadow: none;
+    box-sizing: content-box;
+    caption-side: top;
+    clear: none;
+    clip: auto;
+    color: inherit;
+    -webkit-columns: auto;
+    -moz-columns: auto;
+    columns: auto;
+    -webkit-column-count: auto;
+    -moz-column-count: auto;
+    column-count: auto;
+    -webkit-column-fill: balance;
+    -moz-column-fill: balance;
+    column-fill: balance;
+    grid-column-gap: normal;
+    -webkit-column-gap: normal;
+    -moz-column-gap: normal;
+    column-gap: normal;
+    -webkit-column-rule: medium none currentColor;
+    -moz-column-rule: medium none currentColor;
+    column-rule: medium none currentColor;
+    -webkit-column-rule-color: currentColor;
+    -moz-column-rule-color: currentColor;
+    column-rule-color: currentColor;
+    -webkit-column-rule-style: none;
+    -moz-column-rule-style: none;
+    column-rule-style: none;
+    -webkit-column-rule-width: none;
+    -moz-column-rule-width: none;
+    column-rule-width: none;
+    -webkit-column-span: 1;
+    -moz-column-span: 1;
+    column-span: 1;
+    -webkit-column-width: auto;
+    -moz-column-width: auto;
+    column-width: auto;
+    content: normal;
+    counter-increment: none;
+    counter-reset: none;
+    direction: ltr;
+    empty-cells: show;
+    float: none;
+    font: normal;
+    font-family: inherit;
+    font-size: medium;
+    font-style: normal;
+    font-feature-settings: normal;
+    font-variant: normal;
+    font-weight: 400;
+    height: auto;
+    -webkit-hyphens: none;
+    hyphens: none;
+    left: auto;
+    letter-spacing: normal;
+    line-height: normal;
+    list-style: none;
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: disc;
+    margin: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    opacity: 1;
+    orphans: 0;
+    outline: 0;
+    outline-color: invert;
+    outline-style: none;
+    outline-width: medium;
+    overflow: visible;
+    overflow-x: visible;
+    overflow-y: visible;
+    padding: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    page-break-after: auto;
+    page-break-before: auto;
+    page-break-inside: auto;
+    -webkit-perspective: none;
+    perspective: none;
+    -webkit-perspective-origin: 50% 50%;
+    perspective-origin: 50% 50%;
+    position: static;
+    quotes: "\201C""\201D""\2018""\2019";
+    right: auto;
+    -moz-tab-size: 8;
+    -o-tab-size: 8;
+    tab-size: 8;
+    table-layout: auto;
+    text-align: inherit;
+    -moz-text-align-last: auto;
+    text-align-last: auto;
+    text-decoration: none;
+    -webkit-text-decoration-color: inherit;
+    text-decoration-color: inherit;
+    -webkit-text-decoration-line: none;
+    text-decoration-line: none;
+    -webkit-text-decoration-style: solid;
+    text-decoration-style: solid;
+    text-indent: 0;
+    text-shadow: none;
+    text-transform: none;
+    top: auto;
+    -webkit-transform: none;
+    transform: none;
+    -webkit-transform-style: flat;
+    transform-style: flat;
+    transition: none;
+    transition-delay: 0s;
+    transition-duration: 0s;
+    transition-property: none;
+    transition-timing-function: ease;
+    unicode-bidi: normal;
+    vertical-align: baseline;
+    visibility: visible;
+    white-space: normal;
+    widows: 0;
+    width: auto;
+    word-spacing: normal;
+    z-index: auto;
+}
+.eapps-social-icons {
+    display: block;
+    position: relative;
+}
+.eapps-social-icons-item {
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    cursor: pointer;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: all 0.1s ease;
+}
+.eapps-social-icons-item::after,
+.eapps-social-icons-item::before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.eapps-social-icons-item::after {
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.1s ease;
+}
+.eapps-social-icons-item-icon {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 1;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: all 0.1s ease;
+}
+.eapps-social-icons-item:hover::before {
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0s ease 0.1s;
+}
+.eapps-social-icons-item:hover::after {
+    opacity: 1;
+    visibility: visible;
+}
+.eapps-social-icons.eapps-social-icons-position-right {
+    text-align: right;
+}
+.eapps-social-icons-location-floating {
+    position: fixed !important;
+    z-index: 1000000 !important;
+}
+.eapps-social-icons-location-floating.eapps-social-icons-position-right {
+    right: 0;
+    text-align: right;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    top: 50%;
+}
+.eapps-social-icons-border-radius-circle .eapps-social-icons-item,
+.eapps-social-icons-border-radius-circle .eapps-social-icons-item::after,
+.eapps-social-icons-border-radius-circle .eapps-social-icons-item::before {
+    border-radius: 50%;
+}
+.eapps-social-icons-size-24 .eapps-social-icons-item {
+    width: 24px;
+    height: 24px;
+    margin: 3px;
+    border-width: 1px;
+}
+.eapps-social-icons-size-24 .eapps-social-icons-item-icon {
+    width: 12px;
+    height: 12px;
+    margin: -6px 0 0 -6px;
+}
+.eapps-social-icons-size-24 .eapps-social-icons-item-custom .eapps-social-icons-item-icon {
+    width: 24px;
+    height: 24px;
+    margin: -12px 0 0 -12px;
+}
+.eapps-social-icons-size-32 .eapps-social-icons-item {
+    width: 32px;
+    height: 32px;
+    margin: 4px;
+    border-width: 1px;
+}
+.eapps-social-icons-size-32 .eapps-social-icons-item-icon {
+    width: 16px;
+    height: 16px;
+    margin: -8px 0 0 -8px;
+}
+.eapps-social-icons-size-32 .eapps-social-icons-item-custom .eapps-social-icons-item-icon {
+    width: 32px;
+    height: 32px;
+    margin: -16px 0 0 -16px;
+}
+.eapps-social-icons-size-40 .eapps-social-icons-item {
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    border-width: 2px;
+}
+.eapps-social-icons-size-40 .eapps-social-icons-item-icon {
+    width: 20px;
+    height: 20px;
+    margin: -10px 0 0 -10px;
+}
+.eapps-social-icons-size-40 .eapps-social-icons-item-custom .eapps-social-icons-item-icon {
+    width: 40px;
+    height: 40px;
+    margin: -20px 0 0 -20px;
+}
+.eapps-social-icons-size-48 .eapps-social-icons-item {
+    width: 48px;
+    height: 48px;
+    margin: 6px;
+    border-width: 2px;
+}
+.eapps-social-icons-size-48 .eapps-social-icons-item-icon {
+    width: 24px;
+    height: 24px;
+    margin: -12px 0 0 -12px;
+}
+.eapps-social-icons-size-48 .eapps-social-icons-item-custom .eapps-social-icons-item-icon {
+    width: 48px;
+    height: 48px;
+    margin: -24px 0 0 -24px;
+}
+.eapps-social-icons-size-60 .eapps-social-icons-item {
+    width: 60px;
+    height: 60px;
+    margin: 7px;
+    border-width: 2px;
+}
+.eapps-social-icons-size-60 .eapps-social-icons-item-icon {
+    width: 28px;
+    height: 28px;
+    margin: -14px 0 0 -14px;
+}
+.eapps-social-icons-size-60 .eapps-social-icons-item-custom .eapps-social-icons-item-icon {
+    width: 60px;
+    height: 60px;
+    margin: -30px 0 0 -30px;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-500px::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-500px::after {
+    background-color: #0099e5;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-500px,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-500px:hover {
+    border-color: #0099e5;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-500px .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-500px .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-500px:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-500px:hover .eapps-social-icons-item-icon * {
+    fill: #0099e5;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-instagram::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-instagram::after {
+    background-image: radial-gradient(circle farthest-corner at 35% 90%, #fec564, transparent 50%), radial-gradient(circle farthest-corner at 0 140%, #fec564, transparent 50%),
+        radial-gradient(ellipse farthest-corner at 0 -25%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 20% -50%, #5258cf, transparent 50%),
+        radial-gradient(ellipse farthest-corner at 100% 0, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 60% -20%, #893dc2, transparent 50%),
+        radial-gradient(ellipse farthest-corner at 100% 100%, #d9317a, transparent), linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%);
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-instagram,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-instagram:hover {
+    border-color: #000;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-instagram .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-instagram .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-instagram:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-instagram:hover .eapps-social-icons-item-icon * {
+    fill: #000;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-snapchat::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-snapchat::after {
+    background-color: #fada06;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-snapchat,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-snapchat:hover {
+    border-color: #fada06;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-snapchat .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-snapchat .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-snapchat:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-snapchat:hover .eapps-social-icons-item-icon * {
+    fill: #fada06;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-spotify::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-spotify::after {
+    background-color: #28c858;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-spotify,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-spotify:hover {
+    border-color: #28c858;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-spotify .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-spotify .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-spotify:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-spotify:hover .eapps-social-icons-item-icon * {
+    fill: #28c858;
+}
+.eapps-social-icons-bg-color-on-hover-white .eapps-social-icons-item::after,
+.eapps-social-icons-bg-color-white .eapps-social-icons-item::before {
+    background: #fff;
+}
+.eapps-social-icons-icon-color-on-hover-white .eapps-social-icons-item:hover,
+.eapps-social-icons-icon-color-white .eapps-social-icons-item {
+    border-color: #fff;
+}
+.eapps-social-icons-icon-color-on-hover-white .eapps-social-icons-item:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-white .eapps-social-icons-item:hover .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-white .eapps-social-icons-item .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-white .eapps-social-icons-item .eapps-social-icons-item-icon * {
+    fill: #fff;
+}
+.eapps-social-icons-bg-color-on-hover-white .eapps-social-icons-item-custom::after,
+.eapps-social-icons-bg-color-white .eapps-social-icons-item-custom::before {
+    background: inherit;
+}
+.eapps-social-icons-style-default .eapps-social-icons-item,
+.eapps-social-icons-style-default .eapps-social-icons-item:hover {
+    box-shadow: none;
+    border-color: transparent;
+}
+.eapps-social-icons-animation-bounce .eapps-social-icons-item:hover {
+    -webkit-animation: eapps-animation-bounce 0.3s forwards;
+    animation: eapps-animation-bounce 0.3s forwards;
+}
+@-webkit-keyframes eapps-animation-bounce {
+    40% {
+        -webkit-transform: scale3d(0.9, 0.9, 1);
+        transform: scale3d(0.9, 0.9, 1);
+    }
+    70% {
+        -webkit-transform: scale3d(1.05, 1.05, 1);
+        transform: scale3d(1.05, 1.05, 1);
+    }
+    100% {
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1);
+    }
+}
+@keyframes eapps-animation-bounce {
+    40% {
+        -webkit-transform: scale3d(0.9, 0.9, 1);
+        transform: scale3d(0.9, 0.9, 1);
+    }
+    70% {
+        -webkit-transform: scale3d(1.05, 1.05, 1);
+        transform: scale3d(1.05, 1.05, 1);
+    }
+    100% {
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1);
+    }
+}
+@-webkit-keyframes eapps-animation-slide {
+    49% {
+        -webkit-transform: translateY(100%);
+        transform: translateY(100%);
+    }
+    50% {
+        opacity: 0;
+        -webkit-transform: translateY(-100%);
+        transform: translateY(-100%);
+    }
+    51% {
+        opacity: 1;
+    }
+}
+@keyframes eapps-animation-slide {
+    49% {
+        -webkit-transform: translateY(100%);
+        transform: translateY(100%);
+    }
+    50% {
+        opacity: 0;
+        -webkit-transform: translateY(-100%);
+        transform: translateY(-100%);
+    }
+    51% {
+        opacity: 1;
+    }
+}
