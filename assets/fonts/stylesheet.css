@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'CaskaydiaCove NF';
+    src: url('CaskaydiaCoveNF-Regular.eot');
+    src: url('CaskaydiaCoveNF-Regular.eot?#iefix') format('embedded-opentype'),
+        url('CaskaydiaCoveNF-Regular.woff2') format('woff2'),
+        url('CaskaydiaCoveNF-Regular.woff') format('woff'),
+        url('CaskaydiaCoveNF-Regular.svg#CaskaydiaCoveNF-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
