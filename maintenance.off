@@ -70,53 +70,53 @@
             </g>
         </svg>
         </div>
-            <h1 class="main-header">Site under construction</h1>
-            <a href="tel:+447931352834" class="main-link">+44 7931 352834</a>
-            <a href="mailto:+a.rhykerw@gmail.com" class="main-link">✉️ a.rhykerw@gmail.com</a>
-      </div>
+        <h1 class="main-header">Site under construction</h1>
+        <a href="tel:+447931352834" class="main-link">+44 7931 352834</a>
+        <a href="mailto:+a.rhykerw@gmail.com" class="main-link">✉️ a.rhykerw@gmail.com</a>
+    </div>
 </html>
 <style>
 @import url("https://fonts.googleapis.com/css?family=Raleway");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans");
 body {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 100vh;
-  margin: 0;
-  background-color: #1a1a1a;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+	margin: 0;
+	background-color: #1a1a1a;
 }
 
 .wrapper {
-  display: flex;
-  flex-direction: column;
+	display: flex;
+	flex-direction: column;
 }
 
 .animated-block {
-  margin-bottom: 50px;
+	margin-bottom: 50px;
 }
 .animated-block #nut,
 .animated-block #wrench {
-  display: block;
-  margin: 0 auto;
+	display: block;
+	margin: 0 auto;
 }
 
 .main-header {
-  display: block;
-  max-width: 300px;
-  margin-bottom: 60px;
-  font: 30px "Raleway", sans-serif;
-  color: #4d4d4d;
-  text-align: center;
-  text-transform: uppercase;
+	display: block;
+	max-width: 300px;
+	margin-bottom: 60px;
+	font: 30px "Raleway", sans-serif;
+	color: #4d4d4d;
+	text-align: center;
+	text-transform: uppercase;
 }
 
 .main-link {
-  font: 24px "Open Sans", sans-serif;
-  color: #fff;
-  text-decoration: none;
-  text-align: center;
-  cursor: pointer;
+	font: 24px "Open Sans", sans-serif;
+	color: #fff;
+	text-decoration: none;
+	text-align: center;
+	cursor: pointer;
 }
 </style>
 <script>
